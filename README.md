@@ -31,6 +31,8 @@
 - Docker
 - Postman
 - Fiddler
+- Sauce Labs
+- PageSpeed Insights
 
 
 
