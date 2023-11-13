@@ -49,7 +49,7 @@
 
 #### 🗃 Мои работы
 Этот раздел - моё портфолио. Я буду пополнять его новыми работами.
-- [Радио Arzamas](https://drive.google.com/drive/folders/1kKzrM1bcTfluU38MiXp1jvYElYIn55L_?usp=sharing)
+- Функциональное тестрирование [Радио Arzamas](https://drive.google.com/drive/folders/1kKzrM1bcTfluU38MiXp1jvYElYIn55L_?usp=sharing)
 
 ---
 
